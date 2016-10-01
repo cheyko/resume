@@ -1,0 +1,148 @@
+body{
+	background-color:#CFAA86;
+}
+div.class1{
+	margin-top: 50px;
+	border-width:5px;
+	border: none;
+	height:250px;
+	width:500px;
+	float:left;
+	margin-left: 20px;
+}
+div.class11{
+	border-width:2px;
+	border:none;
+	border-top: solid #668284;
+	height:10px;
+	width:1000px;
+	padding-top:none;
+}
+div.class1 h1{
+	font-family: Verdana;
+	color:blue;
+	font-style:italic;
+}
+div.class1 p{
+	font-family: Verdana;
+	color:blue;
+	font-style:italic;
+}
+span{
+	color:black;
+	font-weight:bold;
+}
+
+div.class12{
+	margin-top: 5px;
+	border-width:2px;
+	border:none;
+	height:10px;
+	width:500px;
+	padding-top:30px;
+}
+
+
+div.class2{
+	margin-top: 50px;
+	border-width:5px;
+	border: solid;
+	height:250px;
+	width:300px;
+	float:left;
+	margin-left:20px;
+	margin-bottom: 10px;
+}
+div.class2 #pic{
+	margin-left:20px;
+}
+
+div.clear{
+	clear:both;
+}
+
+div.class3{
+	margin-top:20px;
+	margin-left:50px;
+	border-width:5px;
+	border: none;
+	height:100px;
+	width:150px;
+	padding:20px;
+	float:left;
+	border-right: solid #668284;
+}
+div.class3 p{
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
+div.class4{
+	margin-top:20px;
+	margin-left:20px;
+	border-width:5px;
+	border: none;
+	height:100px;
+	width:500px;
+	padding:20px;
+	float:left;
+}
+div.clear{
+	clear:both;
+}
+div.class5{
+	margin-top:20px;
+	margin-left:50px;
+	border-width:5px;
+	border: none;
+	height:250px;
+	width:150px;
+	padding:20px;
+	float:left;
+	border-right: solid #668284;
+ 
+}
+
+div.class5 p{
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
+
+div.class6{
+	margin-top:20px;
+	margin-left:20px;
+	float:left;
+	border-width:5px;
+	border: none;
+	height:300px;
+	width:500px;
+	padding:20px;
+}
+div.class7{
+	margin-top:20px;
+	margin-left:50px;
+	float:left;
+	border-width:5px;
+	border-right: solid #668284;
+	height:220px;
+	width:150px;
+	padding:20px;
+	margin-bottom: 50px;
+
+}
+div.class7 p{
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
+div.class8{
+	margin-top:20px;
+	margin-left:20px;
+	float:left;
+	border-width:5px;
+	border: none;
+	height:250px;
+	width:500px;
+	padding:20px;
+}
